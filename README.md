@@ -51,3 +51,9 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+Netlify
+
+```bash
+npm install -g netlify-cli
+netlify deploy
+```
